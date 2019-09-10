@@ -1,0 +1,11 @@
+model,accuracy +/- std
+DecisionTreeRegressor,134 +/- 106
+ExtraTreeRegressor,156 +/- 129
+KNeighborsRegressor,132 +/- 132
+SVR,99.1 +/- 72
+LinearRegression,201 +/- 76.2
+Ridge,172 +/- 60
+ElasticNet,127 +/- 63.1
+Lasso,145 +/- 72.9
+RandomForestRegressor,112 +/- 88.8
+GradientBoostingRegressor,112 +/- 81.7

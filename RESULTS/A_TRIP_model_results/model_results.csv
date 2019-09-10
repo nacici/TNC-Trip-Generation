@@ -1,0 +1,11 @@
+model,mean aboslute error +/- std
+DecisionTreeRegressor,140 +/- 129
+ExtraTreeRegressor,156 +/- 134
+KNeighborsRegressor,137 +/- 146
+SVR,98.5 +/- 85.3
+LinearRegression,220 +/- 81.8
+Ridge,153 +/- 63.2
+ElasticNetLassoRandomForestRegressor,137 +/- 76.8
+GradientBoostingRegressor,164 +/- 80.4
+RandomForestRegressor,116 +/- 107
+GradientBoostingRegressor,120 +/- 103
